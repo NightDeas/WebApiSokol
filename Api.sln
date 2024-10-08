@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.DataBase", "Api.DataBase\Api.DataBase.csproj", "{27470A5E-10DB-4609-854F-163E123B6B65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{EA65ED89-2049-41E1-9C65-103FB6270339}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{8A888CCA-A63E-4059-A35C-0182974A92E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27470A5E-10DB-4609-854F-163E123B6B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27470A5E-10DB-4609-854F-163E123B6B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27470A5E-10DB-4609-854F-163E123B6B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27470A5E-10DB-4609-854F-163E123B6B65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA65ED89-2049-41E1-9C65-103FB6270339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA65ED89-2049-41E1-9C65-103FB6270339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA65ED89-2049-41E1-9C65-103FB6270339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA65ED89-2049-41E1-9C65-103FB6270339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A888CCA-A63E-4059-A35C-0182974A92E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A888CCA-A63E-4059-A35C-0182974A92E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A888CCA-A63E-4059-A35C-0182974A92E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A888CCA-A63E-4059-A35C-0182974A92E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81AACB69-481D-47AA-8B02-874F044167C7}
+	EndGlobalSection
+EndGlobal
